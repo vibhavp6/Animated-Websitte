@@ -35,8 +35,8 @@ If you're into cutting-edge UI/UX and want to understand how animation and respo
 
 ## 🔗 Live Demo & Source Code
 
-- 🌐 [Live Site](https://redefine-gaming-rajveer.netlify.app/)
-- 💻 [GitHub Repo](https://github.com/rajveer-09/redefine-gaming-rajveer/tree/main)
+- 🌐 [Live Site](https://project2byvibhav.netlify.app/)
+- 💻 [GitHub Repo](https://github.com/vibhavp6/Zentry-Gaming-Animated-Website)
 
 ## 🤝 Contributing
 
@@ -46,5 +46,5 @@ This is a personal project for educational and portfolio purposes. However, sugg
 
 If you have questions or want to connect:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
-- Email: rajveersharma1107@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vibhav-pandey-73b876258/)
+- Email: vibhavpandeystudent@gmail.com
