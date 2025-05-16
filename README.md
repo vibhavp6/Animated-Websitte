@@ -46,5 +46,5 @@ This is a personal project for educational and portfolio purposes. However, sugg
 
 If you have questions or want to connect:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vibhav-pandey-73b876258/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/vibhav-pandey-73b876258/)
 - Email: vibhavpandeystudent@gmail.com
